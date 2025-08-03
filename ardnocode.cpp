@@ -1,3 +1,4 @@
+// Code for smart home automation project
 #include <Servo.h>
 
 int output1Value = 0;
